@@ -24,7 +24,7 @@ The multiscale unsupervised methods help in capturing information at different s
 
 To use this segmentation pipeline, follow these steps:
 
-1. Download the MoNuSeg dataset from [here](https://monuseg.grand-challenge.org/Data/) and preprocess it according to the provided instructions.
+1. Download the MoNuSeg dataset from https://monuseg.grand-challenge.org/Data/ and preprocess it according to the provided instructions.
 
 2. Clone this repository to your local machine:
    ```
