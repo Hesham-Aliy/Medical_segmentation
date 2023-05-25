@@ -40,7 +40,7 @@ To use this segmentation pipeline, follow these steps:
    - Relative positioning starting weights: [[link-to-weights]](https://drive.google.com/file/d/1ldnFmniYk0f6uYhWir-UuTWXhXxkavRF/view?usp=sharing)
    - Multiscale starting weights: [[link-to-weights]](https://drive.google.com/file/d/1MCG1AqG9U5S8Bo_wuNmH_6Zp_G9WeLLO/view?usp=sharing)
 
-5. just change the path of the dataset and the weights in the Main.py code.
+5. change the path of the dataset and the weights in the Main.py code.
 
 ## Results
 
