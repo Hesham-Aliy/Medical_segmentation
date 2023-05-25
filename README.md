@@ -6,7 +6,7 @@ This repository contains a segmentation pipeline implemented on the MoNuSeg data
 
 ## Dataset
 
-The MoNuSeg dataset is used for training and evaluation. It is a widely-used benchmark dataset in the field of medical image segmentation. You can find the dataset [here]([link-to-dataset](https://monuseg.grand-challenge.org/Data/ )).
+The MoNuSeg dataset is used for training and evaluation. It is a widely-used benchmark dataset in the field of medical image segmentation. You can find the dataset [here]([https://monuseg.grand-challenge.org/Data/ ].
 
 ## Methodology
 
