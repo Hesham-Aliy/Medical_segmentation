@@ -51,7 +51,7 @@ The segmentation pipeline achieves state-of-the-art performance on the MoNuSeg d
 To learn more about the techniques and methodologies used in this segmentation pipeline, please refer to the following papers:
 
 1. Paper 1: [Relative positioning - Link to the paper](https://arxiv.org/abs/1505.05192)
-2. Paper 2: [Multi-scale - Link to the paper] (https://www.springerprofessional.de/a-multi-scale-self-supervision-method-for-improving-cell-nuclei-/23303116) (Ours)
+2. Paper 2: [Multi-scale (Ours) - Link to the paper](https://www.springerprofessional.de/a-multi-scale-self-supervision-method-for-improving-cell-nuclei-/23303116) 
 
 
 ## Contributing
