@@ -28,7 +28,7 @@ To use this segmentation pipeline, follow these steps:
 
 2. Clone this repository to your local machine:
    ```
-   git clone https://github.com/your-username/your-repo.git
+   git clone [https://github.com/your-username/your-repo.git](https://github.com/Hesham-Aliy/Medical_segmentation.git)
    ```
 
 3. Install the required dependencies:
@@ -40,8 +40,7 @@ To use this segmentation pipeline, follow these steps:
    - Relative positioning starting weights: [[link-to-weights]](https://drive.google.com/file/d/1ldnFmniYk0f6uYhWir-UuTWXhXxkavRF/view?usp=sharing)
    - Multiscale starting weights: [[link-to-weights]](https://drive.google.com/file/d/1MCG1AqG9U5S8Bo_wuNmH_6Zp_G9WeLLO/view?usp=sharing)
 
-5. just change the path of the dataset and the weights in the Main.py code
-   ```
+5. just change the path of the dataset and the weights in the Main.py code.
 
 ## Results
 
