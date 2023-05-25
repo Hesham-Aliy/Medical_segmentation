@@ -63,6 +63,6 @@ Contributions to this segmentation pipeline are welcome! If you find any issues 
 For any questions or inquiries, please contact [Hesham Ali](mailto:He.ali@nu.edu.eg).
 
 ## Note
-1- the code of our unsupervised approach will be relased soon. 
+1- The code of our unsupervised Multi-Scale approach will be relased soon. 
 
 Happy segmentation!
